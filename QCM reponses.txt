@@ -20,7 +20,7 @@ La commande permet de récupérer les nouvelles données d’un dépôt distant 
 git fetch
 
 Quelle fonctionnalité de Github met à disposition une interface web conviviale pour notifier les membres d’une équipe projet de la fin d’un développement et permet ensuite que les changements proposés soient revus puis intégrés dans la branche master ?
-GitHub pulls
+GitHub pull request
 
 Quel est l’usage typique de la commande git bisect ?
 Track down bugs in commits to find it
